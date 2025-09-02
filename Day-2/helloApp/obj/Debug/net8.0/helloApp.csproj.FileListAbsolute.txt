@@ -1,0 +1,14 @@
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.AssemblyInfoInputs.cache
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.AssemblyInfo.cs
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Training\DotNet\helloApp\bin\Debug\net8.0\helloApp.exe
+C:\WORKSPACE\Training\DotNet\helloApp\bin\Debug\net8.0\helloApp.deps.json
+C:\WORKSPACE\Training\DotNet\helloApp\bin\Debug\net8.0\helloApp.runtimeconfig.json
+C:\WORKSPACE\Training\DotNet\helloApp\bin\Debug\net8.0\helloApp.dll
+C:\WORKSPACE\Training\DotNet\helloApp\bin\Debug\net8.0\helloApp.pdb
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.dll
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\refint\helloApp.dll
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.pdb
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\helloApp.genruntimeconfig.cache
+C:\WORKSPACE\Training\DotNet\helloApp\obj\Debug\net8.0\ref\helloApp.dll

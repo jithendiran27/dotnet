@@ -1,0 +1,14 @@
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfoInputs.cache
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfo.cs
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\bin\Debug\net8.0\consoleApp.exe
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\bin\Debug\net8.0\consoleApp.deps.json
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\bin\Debug\net8.0\consoleApp.runtimeconfig.json
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\bin\Debug\net8.0\consoleApp.dll
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\bin\Debug\net8.0\consoleApp.pdb
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.dll
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\refint\consoleApp.dll
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.pdb
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\consoleApp.genruntimeconfig.cache
+C:\WORKSPACE\Training\DotNet\Day-1\consoleApp\obj\Debug\net8.0\ref\consoleApp.dll
