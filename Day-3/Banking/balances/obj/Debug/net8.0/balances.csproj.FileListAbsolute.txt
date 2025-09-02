@@ -1,0 +1,11 @@
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\balances.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\balances.AssemblyInfoInputs.cache
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\balances.AssemblyInfo.cs
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\balances.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Training\DotNet\Banking\balances\bin\Debug\net8.0\balances.deps.json
+C:\WORKSPACE\Training\DotNet\Banking\balances\bin\Debug\net8.0\balances.dll
+C:\WORKSPACE\Training\DotNet\Banking\balances\bin\Debug\net8.0\balances.pdb
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\balances.dll
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\refint\balances.dll
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\balances.pdb
+C:\WORKSPACE\Training\DotNet\Banking\balances\obj\Debug\net8.0\ref\balances.dll

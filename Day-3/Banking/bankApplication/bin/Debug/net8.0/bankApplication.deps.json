@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bankApplication/1.0.0": {
+        "dependencies": {
+          "balances": "1.0.0"
+        },
+        "runtime": {
+          "bankApplication.dll": {}
+        }
+      },
+      "balances/1.0.0": {
+        "runtime": {
+          "balances.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bankApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "balances/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
