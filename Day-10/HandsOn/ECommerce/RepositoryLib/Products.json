@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 30000,
+        "description": "HP Laptop with Intel i5 processor"
+    },
+    {
+        "id": 2,
+        "name": "Mobile",
+        "price": 10000,
+        "description": "Oneplus 7"
+    },
+    {
+        "id": 3,
+        "name": "TV",
+        "price": 50000,
+        "description": "Sony TV"
+    },
+    {
+        "id": 4,
+        "name": "Dishwasher",
+        "price": 20000,
+        "description": "BOSCH"
+    }
+]
