@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3cnNkIgC6J0RcoETYVpEVQdIPtvmcy8snzBt+hSoTxk=",
+  "Source": "OnlineShoppingWebApi",
+  "BasePath": "_content/OnlineShoppingWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
