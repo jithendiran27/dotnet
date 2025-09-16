@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineShoppingPortal/1.0.0": {
+        "dependencies": {
+          "ProductCatalogueEntity": "1.0.0",
+          "ProductCatalogueRepo": "1.0.0",
+          "ProductCatalogueService": "1.0.0"
+        },
+        "runtime": {
+          "OnlineShoppingPortal.dll": {}
+        }
+      },
+      "ProductCatalogueEntity/1.0.0": {
+        "runtime": {
+          "ProductCatalogueEntity.dll": {}
+        }
+      },
+      "ProductCatalogueRepo/1.0.0": {
+        "dependencies": {
+          "ProductCatalogueEntity": "1.0.0"
+        },
+        "runtime": {
+          "ProductCatalogueRepo.dll": {}
+        }
+      },
+      "ProductCatalogueService/1.0.0": {
+        "dependencies": {
+          "ProductCatalogueEntity": "1.0.0",
+          "ProductCatalogueRepo": "1.0.0"
+        },
+        "runtime": {
+          "ProductCatalogueService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineShoppingPortal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductCatalogueEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductCatalogueRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductCatalogueService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

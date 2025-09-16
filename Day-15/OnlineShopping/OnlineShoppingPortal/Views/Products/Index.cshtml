@@ -1,0 +1,10 @@
+@{
+    var products = Model;
+    foreach(var product in products)
+    {
+        <div>
+            <h3>@product.name</h3>
+            <p>Price: @product.price</p>
+        </div>
+    }
+}
