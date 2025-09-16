@@ -1,7 +1,6 @@
 namespace OnlineShoppingPortal.Controllers;
 
 using ProductCatalogueEntity;
-using ProductCatalogueRepo;
 using ProductCatalogueService;
 using Microsoft.AspNetCore.Mvc;
 

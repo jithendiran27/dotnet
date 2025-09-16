@@ -1,11 +1,16 @@
 using ProductCatalogueEntity;
-using ProductCatalogueRepo;
 using ProductCatalogueService;
 using Microsoft.AspNetCore.Mvc;
 
 namespace OnlineShoppingPortal.Controllers;
 
 public class AuthController: Controller {
+
+    private readonly ICustomerService _customerService;
+
+    public AuthController(ICustomerService customerService) {
+        _customerService = customerService;
+    }
 
     [HttpGet]
     public IActionResult Login()
@@ -14,7 +19,29 @@ public class AuthController: Controller {
         return View();
     }
 
+    [HttpPost]
     public IActionResult Login(string email, string password)
+    {
+        Customer customer = new Customer();
+        customer.name = "";
+        customer.emailId = email;
+        customer.password = password;
+
+        if(_customerService.isExistingCustomer(customer)) {
+            this.Response.Redirect("/products/index");
+        }
+        return View();
+    }
+
+    [HttpGet]
+    public IActionResult Register()
+    {
+
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Register(string email, string password)
     {
         this.Response.Redirect("/products/index");
          
