@@ -41,8 +41,16 @@ public class AuthController: Controller {
     }
 
     [HttpPost]
-    public IActionResult Register(string email, string password)
+    public IActionResult Register(string name, string email, string password)
     {
+
+        Customer customer = new Customer();
+        customer.name = name;
+        customer.emailId = email;
+        customer.password = password;
+
+        _customerService.registerNewCustomer(customer);
+
         this.Response.Redirect("/products/index");
          
         return View();

@@ -15,7 +15,9 @@ public class CustomerRepo: ICustomerRepo {
 
     public bool isExistingCustomer(Customer customer) {
         Customer foundCustomer = getCustomers().FirstOrDefault(checkCustomer => checkCustomer.emailId == customer.emailId);
-        if(foundCustomer.password == customer.password) {
+        if (foundCustomer == null) {
+            return false;
+        } else if(foundCustomer.password == customer.password) {
             return true;
         }
         return false;

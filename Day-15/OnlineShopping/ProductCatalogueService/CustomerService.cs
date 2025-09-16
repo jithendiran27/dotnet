@@ -5,9 +5,9 @@ using ProductCatalogueRepo;
 
 public class CustomerService: ICustomerService {
 
-    private readonly CustomerRepo _customerRepo;
+    private readonly ICustomerRepo _customerRepo;
 
-    public CustomerService(CustomerRepo customerRepo) {
+    public CustomerService(ICustomerRepo customerRepo) {
         _customerRepo = customerRepo;
     }
 
