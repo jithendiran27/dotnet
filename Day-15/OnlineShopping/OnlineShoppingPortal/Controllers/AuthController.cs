@@ -51,7 +51,7 @@ public class AuthController: Controller {
 
         _customerService.registerNewCustomer(customer);
 
-        this.Response.Redirect("/products/index");
+        this.Response.Redirect("/auth/login");
          
         return View();
     }

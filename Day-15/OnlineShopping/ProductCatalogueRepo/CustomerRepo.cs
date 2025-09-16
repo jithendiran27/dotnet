@@ -9,8 +9,9 @@ public class CustomerRepo: ICustomerRepo {
     }
 
     public void registerNewCustomer(Customer customer) {
-        getCustomers().Add(customer);
-        JSONCustomerManager.addCustomersInJson(getCustomers());
+        List<Customer> customers = getCustomers();
+        customers.Add(customer);
+        JSONCustomerManager.addCustomersInJson(customers);
     }
 
     public bool isExistingCustomer(Customer customer) {
