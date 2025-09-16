@@ -8,7 +8,7 @@ using System.Text.Json;
 
 public static class JSONCatalogueManager {
 
-    public static string productsFilePath = Path.Combine(Directory.GetCurrentDirectory(), "Data", "products.json");
+    public static string productsFilePath = @"C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueRepo\Data\Products.json";
 
     public static IEnumerable<Product> GetProductsFromJson() {
         var jsonFile = File.ReadAllText(productsFilePath);

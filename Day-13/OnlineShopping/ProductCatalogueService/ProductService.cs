@@ -6,14 +6,30 @@ using System.Collections.Generic;
 
 public class ProductService : IProductService
 {
-    IEnumerable<Product> getAllProducts();
+    private readonly IProductRepo _productRepo;
 
-    Product getProductById();
+    public ProductService(IProductRepo productRepo) {
+        _productRepo = productRepo;
+    }
 
-    void addNewProduct(Product product);
+    public IEnumerable<Product> getAllProducts() {
+        return _productRepo.getAllProducts();
+    }
 
-    void updateProduct(Product product);
+    public Product getProductById(int id) {
+        return _productRepo.getProductById(id);
+    }
 
-    void deleteProductById(int id);
+    public void addNewProduct(Product product) {
+        _productRepo.addNewProduct(product);
+    }
+
+    public void updateProduct(Product product) {
+        _productRepo.updateProduct(product);
+    }
+
+    public void deleteProductById(int id) {
+        _productRepo.deleteProductById(id);
+    }
 
 }

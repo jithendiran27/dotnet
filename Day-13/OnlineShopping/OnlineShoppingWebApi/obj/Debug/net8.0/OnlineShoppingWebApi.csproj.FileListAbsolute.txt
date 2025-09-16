@@ -31,3 +31,9 @@ C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppi
 C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\obj\Debug\net8.0\OnlineShoppingWebApi.pdb
 C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\obj\Debug\net8.0\OnlineShoppingWebApi.genruntimeconfig.cache
 C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\obj\Debug\net8.0\ref\OnlineShoppingWebApi.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\bin\Debug\net8.0\ProductCatalogueEntity.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\bin\Debug\net8.0\ProductCatalogueRepo.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\bin\Debug\net8.0\ProductCatalogueService.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\bin\Debug\net8.0\ProductCatalogueEntity.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\bin\Debug\net8.0\ProductCatalogueRepo.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\OnlineShoppingWebApi\bin\Debug\net8.0\ProductCatalogueService.pdb

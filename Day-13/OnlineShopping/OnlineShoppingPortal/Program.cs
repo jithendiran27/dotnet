@@ -1,7 +1,13 @@
+using ProductCatalogueRepo;
+using ProductCatalogueService;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IProductRepo, ProductRepo>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

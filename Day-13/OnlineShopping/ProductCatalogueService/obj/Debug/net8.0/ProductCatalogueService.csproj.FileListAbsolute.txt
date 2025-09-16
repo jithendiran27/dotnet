@@ -10,3 +10,9 @@ C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatal
 C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\obj\Debug\net8.0\refint\ProductCatalogueService.dll
 C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\obj\Debug\net8.0\ProductCatalogueService.pdb
 C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\obj\Debug\net8.0\ref\ProductCatalogueService.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\obj\Debug\net8.0\ProductCatalogueService.csproj.AssemblyReference.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\bin\Debug\net8.0\ProductCatalogueEntity.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\bin\Debug\net8.0\ProductCatalogueRepo.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\bin\Debug\net8.0\ProductCatalogueEntity.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\bin\Debug\net8.0\ProductCatalogueRepo.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Day-13\OnlineShopping\ProductCatalogueService\obj\Debug\net8.0\ProductCatalogueService.csproj.CopyComplete

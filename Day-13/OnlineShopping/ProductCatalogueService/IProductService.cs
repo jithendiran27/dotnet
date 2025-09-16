@@ -7,7 +7,7 @@ public interface IProductService
 {
     IEnumerable<Product> getAllProducts();
 
-    Product getProductById();
+    Product getProductById(int id);
 
     void addNewProduct(Product product);
 
