@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8L+3K/n3KCUXUV7h4Hsroe03aSiKEgj6jQikBrIVo0nj8IbIeDB7yMU4cxjEEB2L80GA+rhVbKTdF/w8rUxhIw==",
+  "dgSpecHash": "R/ArzoLVtrpyNpjvpFDuVtC2KvDv+x7B1DLxxYDRqU10zJ9Y11ztNk95iKK8fZnxGHQftckzq5o3njEsXTMlNg==",
   "success": true,
-  "projectFilePath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
+  "projectFilePath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\GatewayAPI\\GatewayAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

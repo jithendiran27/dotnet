@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
-      "projectName": "ECommerceWebAPI",
-      "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
+      "projectUniqueName": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ProductsWebAPI\\ProductsWebAPI.csproj",
+      "projectName": "ProductsWebAPI",
+      "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ProductsWebAPI\\ProductsWebAPI.csproj",
       "packagesPath": "C:\\Users\\jithendiran.av\\.nuget\\packages\\",
-      "outputPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ECommerceWebAPI\\obj\\",
+      "outputPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\ProductsWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jithendiran.av\\AppData\\Roaming\\NuGet\\NuGet.Config"
