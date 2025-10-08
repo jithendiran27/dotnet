@@ -2,12 +2,8 @@
 
 using Entities;
 
-public class UserRepo
+public class UserRepo : IUserRepo
 {
-
-    // public List<User> getAllUsers() {
-
-    // }
 
     public void addNewUser(User newUser) {
 

@@ -1,0 +1,13 @@
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\bin\Debug\net8.0\Entities.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\bin\Debug\net8.0\Entities.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\Entities.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Entities\obj\Debug\net8.0\ref\Entities.dll

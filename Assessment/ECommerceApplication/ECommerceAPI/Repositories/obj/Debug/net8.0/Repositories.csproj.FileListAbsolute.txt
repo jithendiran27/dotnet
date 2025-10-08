@@ -1,0 +1,16 @@
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\bin\Debug\net8.0\Entities.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\WORKSPACE\Training\DotNet\Solutions\dotnet\Assessment\ECommerceApplication\ECommerceAPI\Repositories\obj\Debug\net8.0\ref\Repositories.dll
