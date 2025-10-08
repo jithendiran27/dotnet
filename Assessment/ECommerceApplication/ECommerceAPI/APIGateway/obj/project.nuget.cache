@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/ArzoLVtrpyNpjvpFDuVtC2KvDv+x7B1DLxxYDRqU10zJ9Y11ztNk95iKK8fZnxGHQftckzq5o3njEsXTMlNg==",
+  "dgSpecHash": "ryJjSz5ALTSDPzGZyCiZsvl0ytCLJZdZvz3kDEdwkUEv7qnWxB0hmamoNE7pYHNIK0DuVSRd8Sca8qE60+Pe5Q==",
   "success": true,
-  "projectFilePath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\GatewayAPI\\GatewayAPI.csproj",
+  "projectFilePath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\APIGateway\\APIGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
