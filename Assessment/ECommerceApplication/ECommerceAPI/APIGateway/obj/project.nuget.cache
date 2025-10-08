@@ -1,16 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "ryJjSz5ALTSDPzGZyCiZsvl0ytCLJZdZvz3kDEdwkUEv7qnWxB0hmamoNE7pYHNIK0DuVSRd8Sca8qE60+Pe5Q==",
+  "dgSpecHash": "LeGyl1AxGw0IVAtkesYegRd6DAk0AB31MhKxneMSJJTt8gECN3Ko1vSmTo4C8ve9vUHIyVDNSiFI41zepO8FHg==",
   "success": true,
   "projectFilePath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\APIGateway\\APIGateway.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\ipaddressrange\\6.2.0\\ipaddressrange.6.2.0.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.15\\microsoft.aspnetcore.jsonpatch.8.0.15.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\8.0.15\\microsoft.aspnetcore.middlewareanalysis.8.0.15.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.15\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.15.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\ocelot\\24.0.1\\ocelot.24.0.1.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\jithendiran.av\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
