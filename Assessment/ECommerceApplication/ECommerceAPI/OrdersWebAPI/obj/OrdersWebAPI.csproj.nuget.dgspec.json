@@ -4,6 +4,73 @@
     "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\OrdersWebAPI\\OrdersWebAPI.csproj": {}
   },
   "projects": {
+    "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\jithendiran.av\\.nuget\\packages\\",
+        "outputPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jithendiran.av\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\OrdersWebAPI\\OrdersWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +92,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj"
+              },
+              "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Services\\Services.csproj": {
+                "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Services\\Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -58,6 +132,151 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\jithendiran.av\\.nuget\\packages\\",
+        "outputPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jithendiran.av\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\jithendiran.av\\.nuget\\packages\\",
+        "outputPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jithendiran.av\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Entities\\Entities.csproj"
+              },
+              "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\WORKSPACE\\Training\\DotNet\\Solutions\\dotnet\\Assessment\\ECommerceApplication\\ECommerceAPI\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
